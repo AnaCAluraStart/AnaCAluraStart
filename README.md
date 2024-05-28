@@ -1,9 +1,8 @@
 ## Boas vindas ao perfil! 🖤
 Meu nome é Ana Carolina
 
-Estou estudando na Alura
+- Estou estudando na Alura;
+- Estou me desenvolvendo na linguagem JavaScript;
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos;
 
-Estou me desenvolvendo na linguagem JavaScript
-
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
- ![](https://th.bing.com/th/id/OIP.sLRYlyRLFp4Py_A0vopabQHaFe?rs=1&pid=ImgDetMain)
+ ![](https://media1.tenor.com/images/7f2fdec9af8e9f5c290fb27fbbc50e71/tenor.gif?itemid=14491188)
